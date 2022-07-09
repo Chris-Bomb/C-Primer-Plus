@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/xuchen/Desktop/c++/C-Primer-Plus/code/main.cpp">
+		<Unit filename="/Users/xuchen/Desktop/c++/C-Primer-Plus/code/2.cpp">
 			<Option target="code"/>
 		</Unit>
 		<Unit filename="/Users/xuchen/Desktop/c++/C-Primer-Plus/code/CMakeLists.txt">
